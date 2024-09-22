@@ -1,5 +1,4 @@
 # door_alarm
 Internet of Things
 
-Worked on HC-SR04 Distance Sensor and calculated the distance of the object, when the distance is the one set then the buzzer starts beeping and the door gets open.
-Basically used in offices and malls.
+Developed a system using Arduino and HC-SR04 Distance Sensor to calculate object distance. Implemented logic to trigger a buzzer and automatically open a door when the object reaches a preset distance. Deployed for use in offices and malls for automated access control.
